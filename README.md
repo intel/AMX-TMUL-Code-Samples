@@ -1,2 +1,2 @@
 # AMX-TMUL-Code-Samples
-Under construction
+  This repository will contain code samples to introduce basic AMX functionality
